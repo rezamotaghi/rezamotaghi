@@ -1,4 +1,4 @@
-# Reza Motaghi
+# Dr. Reza Motaghi
 
 Oral and maxillofacial radiologist (board-certified, 100,000+ studies reported).
 I build and independently evaluate medical imaging AI.
